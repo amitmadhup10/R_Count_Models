@@ -1,10 +1,6 @@
 ###----------------------------------------------------------------###
 # Project Name : Count Models
 # Code Name: R - Project2
-# Date: 04/02/2016
-# Team Name : R-Wranglers
-# Team Members : Mangapathi Shashank Navuduri, Srinivas Godavarthi, 
-#                Amit Madhup, Sai Sarath Talamudupula, Saleem 
 ###----------------------------------------------------------------###
 
 ###----------------------------------------------------------------###
